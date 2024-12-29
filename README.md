@@ -1,1 +1,1 @@
-I am training for the day of black sun on the highland mountains of the far west.
+It's the dawn of a new era.
