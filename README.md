@@ -1,1 +1,1 @@
-It's the dawn of a new era.
+All I want to do is predict the future with pinpoint accuracy. Not too much to ask.
