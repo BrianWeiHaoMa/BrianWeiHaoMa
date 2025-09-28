@@ -1,1 +1,1 @@
-The mind is a great mystery.
+Explore the universe.
