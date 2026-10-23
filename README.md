@@ -2,7 +2,7 @@
 
 Hardcore agentic developer. I like experimenting and tackling hard problems. If you'd like to reach out, the fastest way is via email at [brianmaytc@gmail.com](mailto:brianmaytc@gmail.com).
 
-Tools that I packaged for anyone else it would help that were originally for myself (I still use these in my workflow every day):
+Tools that were originally for myself (I still use these in my workflow every day), now packaged for anyone else it would help:
 
 Want to keep your per-project personal workflows outside of public repos while still being able to version them and use them normally? Take a look at [git-dupe](https://github.com/BrianWeiHaoMa/git-dupe).
 
